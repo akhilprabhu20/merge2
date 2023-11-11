@@ -15,6 +15,7 @@ node_modules/
 
 # Ignore files named 'config.ini'
 config.ini
+<<<<<<< HEAD
 # Ignore files with .log extension
 *.log
 
@@ -31,3 +32,5 @@ node_modules/
 
 # Ignore files named 'config.ini'
 config.ini
+=======
+>>>>>>> origin/copy
