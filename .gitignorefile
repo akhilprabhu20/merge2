@@ -1,1 +1,9 @@
 *.log
+# Ignore files with .log extension
+*.log
+
+# Ignore directories named 'node_modules'
+node_modules/
+
+# Ignore files named 'config.ini'
+config.ini
